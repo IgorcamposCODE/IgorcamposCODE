@@ -1,4 +1,4 @@
-### Olá Meu nome é Igor 🎮
+### Olá Meu nome é Igor iniciante na aréa de programação 🎮
 
 <!--
 **IgorcamposCODE/IgorcamposCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
