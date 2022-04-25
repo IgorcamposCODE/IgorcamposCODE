@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919827.png">
-  <img align="center" alt="CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+  <img align="center" alt="HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/136/136528.png">
+  <img align="center" alt="CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
 </div>
 
