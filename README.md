@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Atualmente Estudo  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img align="center" alt="Js" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136530.png">
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136528.png">
   <img align="center" alt="CSS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
 </div>
