@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 ##
   
- - Atualmente estudo 
+### Atualmente estudo 
   
 <div style="display: inline_block">
   <img align="center" alt="Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
