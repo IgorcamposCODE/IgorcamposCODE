@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 💬 me pergunte sobre jogos e hardware
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Ter caído na borda de piscina aos 11 anos OBS: Quadril 
+- 
+##
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?IgorcamposCODE" frameborder="0"></iframe>
 
 ## Atualmente Estudo  
 
