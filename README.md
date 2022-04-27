@@ -33,13 +33,15 @@ Here are some ideas to get you started:
   
 ##  
   
-  ### - Redes Sociais -
+### - Redes Sociais -
   
   <div> 
  	<a href="https://www.twitch.tv/umnerdgeektv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "https://gitlab.com/IgorSilvaCODE"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-campos-da-silva-b80010143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+##
 
 
 
