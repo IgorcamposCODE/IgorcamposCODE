@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.webp" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.webp" min-width="400px" max-width="200px" width="200px" align="right">
 
 ### Olá Meu nome é Igor iniciante na aréa de programação 🎮                                                                                        
 
