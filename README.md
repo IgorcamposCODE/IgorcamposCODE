@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/igorcamposcode">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=igorcamposcode&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=codeSTACKr"/>
-<center><img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=great-gatsby&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/></center>
+<img height="190em" width="100" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=great-gatsby&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
 </div>
   
 ##
