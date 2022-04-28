@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block" align="center" > 
 <a href="https://github.com/igorcamposcode"> 
-<img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
+<img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
   
 </div>
   
