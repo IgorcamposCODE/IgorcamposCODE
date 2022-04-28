@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block"> 
   
-<img height="280vw" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=great-gatsby&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
+<img height="280vw" src="https://github-readme-streak-stats.herokuapp.com/?username=igorcamposcode&theme=great-gatsby&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
   
 </div>
   
