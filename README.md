@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
   <a href="https://github.com/igorcamposcode">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=igorcamposcode&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
