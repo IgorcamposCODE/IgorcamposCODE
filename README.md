@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
   <a href="https://github.com/igorcamposcode">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcamposcode&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&title_color=ff1010&icon_color=ff1010"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=rigorcamposcode&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
