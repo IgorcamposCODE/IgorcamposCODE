@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
-<div style="display: inline_block"> 
+<div style="display: inline_block" align="center" > 
   
 <img height="290em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
   
