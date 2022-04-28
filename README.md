@@ -1,6 +1,6 @@
 ### Olá Meu nome é Igor iniciante na aréa de programação 🎮 
 
-<img src="https://i.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.webp" min-width="310px" max-width="250px" width="250px" align="right">
+<img src="https://i.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.webp" min-width="300px" max-width="250px" width="250px" align="right">
 
 <!--
 **IgorcamposCODE/IgorcamposCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.                 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/igorcamposcode">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=igorcamposcode&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-<img style="display: inline_block" height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=great-gatsby&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=great-gatsby&date_format=j/n&border=ffffff&bacgraund=000000&stroke=ffffff&ring=E89E3C&fire=E89E3C&currStreakNum=DFBE2A&sideNums=DFBE2A&currStreakLabel=ffffff&sideLabels=ffffff" alt="igorcamposcode"/>
 </div>
   
 ##
