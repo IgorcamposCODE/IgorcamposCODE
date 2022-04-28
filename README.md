@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-### <p style="display: inline_block" align="center"><samp> Hello World!</samp></p>
+### <h1 style="display: inline_block" align="center"><samp> Hello World!</samp></h1> <br>
 
 <div style="display: inline_block" align="center" >
 <a href="https://github.com/igorcamposcode">
