@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
  
-##  
+## 
   
 ### Atualmente estudo 
   
@@ -38,9 +38,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>  
+</div>
   
-##  
+##
+  
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=gruvbox&no-frame=true"/>
+
+##    
   
 ### - Redes Sociais -
   
