@@ -32,8 +32,10 @@ Here are some ideas to get you started:
   
 ##
   
+<div style="display: inline_block" align="center"   
 [![trophy](https://github-profile-trophy.vercel.app/?username=igorcamposcode&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
-  
+</div> 
+     
 ##
   
 ### Atualmente estudo 
