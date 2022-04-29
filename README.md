@@ -32,8 +32,9 @@ Here are some ideas to get you started:
   
 ### <p style="display: inline_block" align="center"><samp> - GitHub Contribution Graph - </samp></p><br>
   
- <div style="display: inline_block" align="center" >  
-  <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=monokai" alt="GitHub Commits Graph" />
+ <div style="display: inline_block" align="center" >
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"> 
+  <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=monokai" alt="GitHub Contribution Graph" />
 </div>
   
 ## 
