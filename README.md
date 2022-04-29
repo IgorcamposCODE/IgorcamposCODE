@@ -32,9 +32,7 @@ Here are some ideas to get you started:
   
 ##
   
-<p align="center">  
-<img width="660" src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&layout=compact&theme=dark_lover" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=igorcamposcode&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
   
 ##
   
