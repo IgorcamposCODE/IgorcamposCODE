@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
   
+### <p style="display: inline_block" align="center"><samp> - GitHub Contribution Graph - </samp></p><br>
+  
  <div style="display: inline_block" align="center" >  
-  <img height="240em" src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=monokai" alt="GitHub Commits Graph" />
+  <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=monokai" alt="GitHub Commits Graph" />
 </div>
 ## 
   
