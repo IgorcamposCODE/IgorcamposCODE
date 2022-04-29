@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block" align="center" >
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=790 src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=monokai&no-frame=true"/>
+  <img width=880 src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=monokai&no-frame=true"/>
 </a>
 </div>
 
