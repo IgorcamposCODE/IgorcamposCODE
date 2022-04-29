@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
   
-  <center<<h2>🏆 Github Profile Trophy</h2><br></center>
+  <center><h2>🏆 Github Profile Trophy</h2><br></center>
   
-<p align="center" >
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=880 src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=monokai&no-frame=true"/>
 </a>
