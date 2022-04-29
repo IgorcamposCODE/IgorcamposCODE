@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block" align="center" > 
 <a href="https://github.com/igorcamposcode"> 
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
-<img height="280em" src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=monokai&no-frame=true"/>
+<img height="200em" src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=monokai&no-frame=true"/>
 </div>
  
 ## 
