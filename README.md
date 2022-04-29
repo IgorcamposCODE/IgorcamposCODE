@@ -35,6 +35,7 @@ Here are some ideas to get you started:
  <div style="display: inline_block" align="center" >  
   <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=monokai" alt="GitHub Commits Graph" />
 </div>
+  
 ## 
   
 ### Atualmente estudo 
