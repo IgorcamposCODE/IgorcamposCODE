@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/igorcamposcode"> 
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
-
+  
+<h2>🏆 Github Profile Trophy</h2><br>
+  
 <div style="display: inline_block" align="center" >
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=790 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=790 src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&column=8&theme=monokai&no-frame=true"/>
 </a>
 </div>
 
