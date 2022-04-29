@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
   
-<div style="display: inline_block" align="center">  
+<div align="center">  
 <img width="660" src="https://github-profile-trophy.vercel.app/?username=igorcamposcode&layout=compact&theme=dark_lover" alt="igorcamposcode"/>
 </div>
   
