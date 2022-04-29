@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/igorcamposcode"> 
 <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
-
+  
+ <div style="display: inline_block" align="center" >  
+  <img src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=monokai" alt="GitHub Commits Graph" />
+</div>
 ## 
   
 ### Atualmente estudo 
