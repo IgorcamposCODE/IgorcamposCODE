@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 Foco & Determinação
 - 💬 me pergunte sobre jogos e hardware
 - 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: Ter caído na borda de piscina aos 11 anos OBS: Quadril 
+- ⚡ Tragic Fact: Ter caído na borda de piscina aos 11 anos OBS: Quadril 
 
 ##
 
