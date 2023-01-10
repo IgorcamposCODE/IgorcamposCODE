@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
  <div style="display: inline_block" align="center" >
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"> 
-  <img height="270em" src="https://activity-graph.herokuapp.com/graph?username=igorcamposcode&theme=merko" alt="GitHub Contribution Graph" />
+  <img height="270em" src="https://github-readme-activity-graph.cyclic.app/graph?username=igorcamposcodetheme=monokai" alt="GitHub Contribution Graph"/>
 </div>
   
 ## 
