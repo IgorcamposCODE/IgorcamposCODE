@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block" align="center" > 
 <a href="https://github.com/igorcamposcode"> 
-<img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
+<img height="270em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
 </div>
   
 ### <p style="display: inline_block" align="center"><samp> - GitHub Contribution Graph - </samp></p><br>
