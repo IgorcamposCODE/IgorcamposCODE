@@ -1,5 +1,4 @@
-<img src="https://giphy.com/embed/xThuWu82QD3pj4wvEQ" height="250px" width ="250px"></p>
-
+<img src="https://giphy.com/embed/3o7WTAkv7Ze17SWMOQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 ### Olá Meu nome é Igor  🎮
 
 <!--
