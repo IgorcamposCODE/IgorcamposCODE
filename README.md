@@ -1,5 +1,5 @@
 
-<img src="https://media3.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47p0x2izz15qbp33pgv2fik05t16y2kndpihb58pza&rid=giphy.gif&ct=g" width="250px" align="right" style"border-radius:50px" alt="Developer">
+<img src="https://media3.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47p0x2izz15qbp33pgv2fik05t16y2kndpihb58pza&rid=giphy.gif&ct=g" width="250px" align="right" style"border-radius:50px;" alt="Developer">
 
 ### Olá Meu nome é Igor  🎮
 
