@@ -9,12 +9,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Atualmente estou bem interessado em programação e música
-- 🎮 Curtindo games como R6 e foco em Estudos na aréa 
+- 🎮 Curtindo games como R6 entre outros jogos
 - 📖 Conhecer a area e dar prosseguimento pra vida
-- 🤔 Foco & Determinação
-- 💬 me pergunte sobre jogos e hardware
+- 🤔 Foco nas seguintes atividades, montagem e manutenção de computadores, e em estudos sobre tecnologia
 - 😄 Pronouns: Ele/dele
-- ⚡ Tragic Fact: Ter caído na borda de piscina aos 11 anos OBS: Quadril 
 
 ##
 
